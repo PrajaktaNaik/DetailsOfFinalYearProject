@@ -1,0 +1,9 @@
+How to Install chrome extension on chrome browser :
+
+
+On chrome browser, follow following procedure
+1)setting -> tools -> Extensions -> Load unpackaged Extension
+
+2)select manifest.json file template folder 
+
+3)How to run chrome extension:To run chrome extension, click on Rifu image at top-right of chrome browser

@@ -1,0 +1,27 @@
+#API_key='AIzaSyBdGY-23XisY8ZwOuvdnseGBbFIndd3oYs'
+#engine_id='008016317575559464792:nomhcddzapi'
+import urllib2
+import json
+import pprint
+
+
+class search:
+	def search_movies(self,search_query):
+		
+		data=" "
+		search_query=search_query.replace(" ","+")
+		try:
+			data = urllib2.urlopen('https://www.googleapis.com/customsearch/v1?key=AIzaSyBdGY-23XisY8ZwOuvdnseGBbFIndd3oYs&cx=008016317575559464792:nomhcddzapi&q='+search_query+'&highrange=1&start=1')
+			data = json.load(data)
+			if not data['items']:
+				print "\nNONE DETECTED"
+				space_char=" "
+				return space_char
+			return data['items']
+		except Exception:
+			pass
+		return data
+
+#obj=search()
+#result=obj.search_movies("inception")
+#print result

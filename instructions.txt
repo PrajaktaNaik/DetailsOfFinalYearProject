@@ -1,0 +1,37 @@
+1) Software Resources Required
+   Platform: Ubuntu 10.10
+
+1.	Python 2.6
+2.	Flask 0.8
+3.	Mongodb 2.0 
+4.	Pymongo 2.1
+5.	Natural Language Toolkit
+6.	Bingapi 0.02
+7.	Freebase API
+8.	Gdata
+9.     Google custom search API
+10.     Alchemy API
+
+Server Side:
+1) Install above softwares 
+
+2) Go to project code directory
+3) Start mongod server
+   Command : mongod
+4) Run store_data.py and store_data_specific.py to load data to mongoDB database
+   Command : 
+   python store_data.py
+   python store_data_specific.py
+5) Run app.py to start server
+   Command: python app.py
+
+Client Side:
+Installation of chrome extension "RIFU" on chrome browser :
+
+On chrome browser, follow following procedure
+1)setting -> tools -> Extensions -> Load unpackaged Extension 
+
+2)select manifest.json file from project_code/template folder 
+
+3)To run chrome extension, click on Rifu image at top-right of chrome browser
+

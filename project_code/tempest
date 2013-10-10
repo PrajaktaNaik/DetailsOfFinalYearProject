@@ -1,0 +1,705 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>The Tempest Study Guide - William Shakespeare - eNotes.com</title>
+<meta name="description" content="The Tempest study guide with summary, notes, essays, quotes, analysis and pictures"/>
+<meta name="keywords" content="The Tempest study guide, The Tempest summary, The Tempest notes, The Tempest essays, The Tempest quotes, The Tempest pictures, The Tempest analysis, William Shakespeare"/>
+<meta name="google-site-verification" content="REgrY7ikfzvc0wFJYaTxu5mqVHq6W-klRqItJEWClnY" />
+<link rel="stylesheet" href="http://static.enotes.com/css/038/reset.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://static.enotes.com/css/038/text.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://static.enotes.com/css/038/master.css" type="text/css" media="screen" charset="utf-8" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/tempest/rss" />
+<script type="text/javascript" charset="utf-8" src="http://static.enotes.com/js/038/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.enotes.com/js/038/jquery.quickflip.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.enotes.com/js/038/enotes.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.enotes.com/js/038/jquery.tooltip.js"></script>
+<script type="text/javascript">
+var AMTcgiloc = "/util/tinymce_math/mathImg.php";
+var AScgiloc = '/util/tinymce_math/svgimg.php';
+var ASdloc = '/jax/includes/tinymce/jscripts/tiny_mce/plugins/asciisvg/js/d.svg';
+</script>
+<!--[if IE]>
+  <link rel="stylesheet" href="http://static.enotes.com/css/038/ie.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+<!--[if IE 7]>
+  <link rel="stylesheet" href="http://static.enotes.com/css/038/ie7.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+<!--[if IE 6]>
+  <link rel="stylesheet" href="http://static.enotes.com/css/038/ie6.css" type="text/css" media="screen" charset="utf-8" />
+<![endif]-->
+<script type="text/javascript" src="https://use.typekit.com/acf5rrk.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){alert('typekit failure');}</script>
+<!--comscore-->
+<script type="text/javascript" language="JavaScript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035233" });
+(function() {
+var s = document.createElement("script"), el =document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb [^] [1]": "http://b" [^] [2]) + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035233&cv=2.0&cj=1" />
+</noscript>
+<!--end comscore-->
+<!--analytics-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src=\'" + gaJsHost + "google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-79936-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+<!--pub tracking and user tracking-->
+<script type="text/javascript">
+</script>
+
+<!--Google Ad Manager Code-->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-3828571351104846");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-3828571351104846", "Books_Literature_160x600");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Books_Literature_728x90");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Business_160x600");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Business_728x90");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Health_160x600");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Health_728x90");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Law_160x600");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Law_728x90");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Main_Banner");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Search_160x600");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Search_728x90");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Sidescraper");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Teachers_160x600");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Teachers_728x90");
+  GA_googleAddSlot("ca-pub-3828571351104846", "Documents_728_90");
+  GA_googleAddSlot("ca-pub-3828571351104846", "eNotes_ROS_300_250");
+  GA_googleAddSlot("ca-pub-3828571351104846", "300x250_BTF_ROS");
+  GA_googleAddSlot("ca-pub-3828571351104846", "eNotes_728_90_btf");
+  GA_googleAddSlot("ca-pub-3828571351104846", "STEM_160x600"); 
+  GA_googleAddSlot("ca-pub-3828571351104846", "STEM_300x250");
+  GA_googleAddSlot("ca-pub-3828571351104846", "STEM_728x90");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+
+</head>
+<body class="">
+<div id="wrapper">
+    <div id="banner_top" style=""></div>
+    <div id="banner" class="clearfix">
+    	        	<div><a href="/" id="logo">Study Guides and Lesson Plans</a></div>
+                <p id="tagline">Study smarter.</p>
+
+
+    <div id="site-search">
+        <ul class="hmenu">
+                        <li>Welcome, Guest!</li>
+			            <li>
+            	<a href="#" id="background-tools-toggle">Background</a>
+                <div id="background-tools"><a class="closebox">X</a>
+                	<div class="chgbkgd-head">Change background:</div>
+                	<ul>
+                	<li><a href="#" onclick="javascript: setBkgd(''); return false;">Blackboard</a></li>
+                	<li><a href="#" onclick="javascript: setBkgd('green');  return false;">Green chalkboard</a></li>
+                	<li><a href="#" onclick="javascript: setBkgd('desk'); return false;">Desk</a></li>
+                	 </ul>
+                </div>
+            </li>
+            <li><a href="/jax/index.php/users/login/eventHandler=logUserIn?pg=http://www.enotes.com/tempest">Sign In</a></li>
+            <li><a href="/help/join">Join eNotes</a></li>
+                        
+        </ul>
+
+        <form id="site-search-form" action="/search">
+            <input type="text" id="site-search-string" name="q" />
+            <input type="submit" class="btn-input" value="Search" />
+        </form>
+    </div>
+</div><!--banner-->
+<div id="nav">
+    <ul id="site-nav" class="fmenu">
+                <li><a href="/q-and-a">Q&A</a></li>
+                <li><a href="/discuss">DISCUSSION</a></li>
+                <li><a href="/topics" class="active" >TOPICS</a></li>
+                <li><a href="/documents">eBOOKS & DOCUMENTS</a></li>
+                <li><a href="/teachers">FOR TEACHERS</a></li>
+            </ul>
+    <div id="secondary-nav">
+        <ul id="subject-nav" class="fmenu">
+                        <li><a href="/lit" class="active" >LITERATURE</a></li>
+                        <li><a href="/history">HISTORY</a></li>
+                        <li><a href="/science">SCIENCE</a></li>
+                        <li><a href="/math">MATH</a></li>
+                        <li><a href="#" id="more-subjects-toggle">MORE SUBJECTS <img src="http://static.enotes.com/images/core/arw-toggle-subjects.png" alt="" /></a>
+                <ul id="more-subjects-nav">
+                                <li><a href="/arts">ARTS</a></li>
+                                <li><a href="/business">BUSINESS</a></li>
+                                <li><a href="/soc">SOCIAL SCIENCES</a></li>
+                                <li><a href="/law">LAW AND POLITICS</a></li>
+                                <li><a href="/health">HEALTH</a></li>
+                                </ul>
+            </li>
+        </ul>
+        <ul id="people-nav" class="fmenu">
+                            <li><a href="/help/join" id="nav-join">JOIN eNOTES</a><li>
+                        <li><a href="/people" id="nav-people">eNOTES PEOPLE</a></li>
+        </ul>
+        <div class="clear"></div>
+    </div><!--/secondary-nav-->
+</div><div id="content">
+
+<div id="content-head" class="has-right-menu" style="border-bottom: none; margin-bottom: 10px;">
+    <div class="content-head-left">
+            <p id="faux-h1">The Tempest</p>  
+            <p class="subtitle">by William Shakespeare</p>
+                  <!--breadcrubms-->
+          <div id="breadcrumbs"><a href="/">eNotes Home</a> &gt; <a href="/lit">Literature</a> &gt; <h1>The Tempest Study Guide</h1></div>
+ 
+    </div><!--/.content-head-left-->
+    <div class="content-head-right">
+                    <ul class="hmenu">
+                                                                                <li><a href="/tempest/documents">5 Documents</a></li>
+                                                                    <li><a href="/tempest/following">432 Members Following</a></li>
+                            </ul>
+        	                    <!--contextual search-->
+            <div class="contextual-search">
+                <form method="get" action="/tempest/search">
+                <input type="text" id="contextual-search" title="Search The Tempest" name="q" value="" /> <input type="submit" class="btn-input" value="Search" />
+                </form>
+            </div>
+            </div><!--/.content-head-right-->
+        <div class="content-head-nav">
+        <div class="tab-set">
+        	            <ul class="fmenu tabs-static  ">
+                <li class="current" ><a href="/tempest">Study Guide</a></li>
+<li><a href="/tempest-lesson">Lesson Plans</a></li>
+<li><a href="/tempest/q-and-a/">Q&amp;A</a></li>
+<li><a href="/tempest/discuss/">Discussion</a></li>
+<li><a href="/topic/The_Tempest">Wikipedia</a></li>
+            </ul>
+            <div class="tab-set-subnav">
+                                <ul class="hmenu">
+                                            <li><a class="current" href="/tempest">eNotes</a></li>
+                                            <li><a class="" href="/tempest-text">eText</a></li>
+                                            <li><a class="" href="/tempest-salem">Salem on Literature</a></li>
+                                            <li><a class="" href="/tempest-criticism">Criticism</a></li>
+                                            <li><a class="" href="/tempest-video">Video Study Guides</a></li>
+                                            <li><a class="" href="/tempest/related-resources">Related Resources</a></li>
+                                    </ul>
+                            </div>
+        </div>
+    </div><!--/.content-head-nav-->
+    <div class="clear"></div><!--/.clear-->
+</div><!--/#content-head-->
+<div id="content-main">
+        <div class="content-left">
+        <div class="sidenav-wrapper">
+    <h3>Navigate</h3>
+    <ul id="multiMenu_links" class="sidenav">
+        <li><a href="/tempest/introduction" class="active">The Tempest: Introduction</a>
+</li>
+<li><a href="/tempest/author-biography">The Tempest: William Shakespeare Biography</a>
+</li>
+<li><a href="/tempest/summary">The Tempest: Summary</a>
+</li>
+<li><a href="/tempest/reading-shakespeare">The Tempest: Reading Shakespeare</a>
+</li>
+<li><a href="/tempest/list-characters">The Tempest: List of Characters</a>
+</li>
+<li><a href="/tempest/historical-background">The Tempest: Historical Background</a>
+</li>
+<li class="expandable"><a href="/tempest/summary-analysis" class="expandable">The Tempest: Summary and Analysis</a>
+<ul class="sidenav"><li><a href="/tempest/act-scene-1-summary-analysis">Act I, Scene 1 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-1-188-summary-analysis">Act I, Scene 2, lines 1-188 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-189-320-summary-analysis">Act I, Scene 2, lines 189-320 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-321-374-summary-analysis">Act I, Scene 2, lines 321-374 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-375-504-summary-analysis">Act I, Scene 2, lines 375-504 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-ii-scene-1-lines-1-184-summary-analysis">Act II, Scene 1, lines 1-184 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-ii-scene-1-lines-185-328-summary-analysis">Act II, Scene 1, lines 185-328 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-ii-scene-2-summary-analysis">Act II, Scene 2 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-iii-scene-1-summary-analysis">Act III, Scene 1 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-iii-scene-2-summary-analysis">Act III, Scene 2 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-iii-scene-3-summary-analysis">Act III, Scene 3 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-iv-scene-1-lines-1-163-summary-analysis">Act IV, Scene 1, lines 1-163 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-iv-scene-1-lines-164-266-summary-analysis">Act IV, Scene 1, lines 164-266 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-lines-1-87-summary-analysis">Act V, Scene 1, lines 1-87 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-88-171-summary-analysis">Act V, Scene 1, 88-171 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-172-255-summary-analysis">Act V, Scene 1, 172-255 Summary and Analysis</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-lines-256-330-summary-analysis">Act V, Scene 1, Lines 256-330 Summary and Analysis</a>
+</li>
+</ul></li>
+<li class="expandable"><a href="/tempest/quizzes" class="expandable">The Tempest: Quizzes</a>
+<ul class="sidenav"><li><a href="/tempest/act-scene-1-questions-answers">Act I, Scene 1 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-1-188-questions-answers">Act I, Scene 2, lines 1-188 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-189-320-questions-answers">Act I, Scene 2, lines 189-320 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-321-374-questions-answers">Act I, Scene 2, lines 321-374 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-scene-2-lines-375-504-questions-answers">Act I, Scene 2, lines 375-504 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-ii-scene-1-lines-1-184-questions-answers">Act II, Scene 1, lines 1-184 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-ii-scene-1-lines-185-328-questions-answers">Act II, Scene 1, lines 185-328 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-ii-scene-2-questions-answers">Act II, Scene 2 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-iii-scene-1-questions-answers">Act III, Scene 1 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-iii-scene-2-questions-answers">Act III, Scene 2 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-iii-scene-3-questions-answers">Act III, Scene 3 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-iv-scene-1-lines-1-163-questions-answers">Act IV, Scene 1, lines 1-163 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-iv-scene-1-lines-164-266-questions-answers">Act IV, Scene 1, lines 164-266 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-lines-1-87-questions-answers">Act V, Scene 1, lines 1-87 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-88-171-questions-answers">Act V, Scene 1, 88-171 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-172-255-questions-answers">Act V, Scene 1, 172-255 Questions and Answers</a>
+</li>
+<li><a href="/tempest/act-v-scene-1-lines-256-330-questions-answers">Act V, Scene 1, Lines 256-330 Questions and Answers</a>
+</li>
+</ul></li>
+<li class="expandable"><a href="/tempest/essential-passages" class="expandable">The Tempest: Essential Passages</a>
+<ul class="sidenav"><li><a href="/tempest/essential-passages-by-character-caliban">Essential Passage by Character: Caliban</a>
+</li>
+<li><a href="/tempest/essential-passages-by-character-prospero">Essential Passage by Character: Prospero</a>
+</li>
+<li><a href="/tempest/essential-passages-by-theme-humanity">Essential Passage by Theme: Humanity</a>
+</li>
+</ul></li>
+<li><a href="/tempest/themes">The Tempest: Themes</a>
+</li>
+<li class="expandable"><a href="/tempest/character-analysis" class="expandable">The Tempest: Character Analysis</a>
+<ul class="sidenav"><li><a href="/tempest/alonso-character-analysis">Alonso (Character Analysis)</a>
+</li>
+<li><a href="/tempest/antonio-character-analysis">Antonio (Character Analysis)</a>
+</li>
+<li><a href="/tempest/ariel-character-analysis">Ariel (Character Analysis)</a>
+</li>
+<li><a href="/tempest/caliban-character-analysis">Caliban (Character Analysis)</a>
+</li>
+<li><a href="/tempest/ferdinand-character-analysis">Ferdinand (Character Analysis)</a>
+</li>
+<li><a href="/tempest/gonzalo-character-analysis">Gonzalo (Character Analysis)</a>
+</li>
+<li><a href="/tempest/miranda-character-analysis">Miranda (Character Analysis)</a>
+</li>
+<li><a href="/tempest/prospero-character-analysis">Prospero (Character Analysis)</a>
+</li>
+<li><a href="/tempest/other-characters-descriptions">Other Characters (Descriptions)</a>
+</li>
+</ul></li>
+<li><a href="/tempest/principal-topics">The Tempest: Principal Topics</a>
+</li>
+<li class="expandable"><a href="/tempest/essays" class="expandable">The Tempest: Essays</a>
+<ul class="sidenav"><li><a href="/tempest/does-shakespeare-critique-european-colonialism">Does Shakespeare Critique European Colonialism in The Tempest?</a>
+</li>
+<li><a href="/tempest/prospero-shakespeare">Prospero and Shakespeare</a>
+</li>
+<li><a href="/tempest/ariel-allegory-tempest">Ariel and Allegory in The Tempest</a>
+</li>
+<li><a href="/tempest/caliban-character-study">Caliban: A Character Study</a>
+</li>
+<li><a href="/tempest/themes-tempest">Themes in The Tempest</a>
+</li>
+<li><a href="/tempest/father-daughter-relationships-shakespeares-per">Father-Daughter Relationships in Shakespeare's Pericles, The Winter's Tale, and The Tempest</a>
+</li>
+<li><a href="/tempest/tempest-illusion-reality">The Tempest: Illusion and Reality</a>
+</li>
+<li><a href="/tempest/tempest-an-overview">The Tempest: An Overview</a>
+</li>
+<li><a href="/tempest/tempest-colonialism-revisited">The Tempest and Colonialism Revisited</a>
+</li>
+</ul></li>
+<li class="expandable"><a href="/tempest/criticism" class="expandable">The Tempest: Criticism</a>
+<ul class="sidenav"><li><a href="/tempest/overviews">Overviews</a>
+</li>
+<li><a href="/tempest/magic">Magic</a>
+</li>
+<li><a href="/tempest/order-structure">Order and Structure</a>
+</li>
+<li><a href="/tempest/music-masque">Music and the Masque</a>
+</li>
+<li><a href="/tempest/prospero">Prospero</a>
+</li>
+<li><a href="/tempest/ariel">Ariel</a>
+</li>
+<li><a href="/tempest/caliban">Caliban</a>
+</li>
+</ul></li>
+<li><a href="/tempest/selected-quotes">The Tempest: Selected Quotes</a>
+</li>
+<li><a href="/tempest/suggested-essay-topics">The Tempest: Suggested Essay Topics</a>
+</li>
+<li><a href="/tempest/sample-essay-outlines">The Tempest: Sample Essay Outlines</a>
+</li>
+<li><a href="/tempest/modern-connections">The Tempest: Modern Connections</a>
+</li>
+<li class="expandable"><a href="/tempest/faqs" class="expandable">The Tempest: FAQs</a>
+<ul class="sidenav"><li><a href="/tempest/did-shakespeare-intend-tempest-his-last-play">Did Shakespeare intend The Tempest to be his last play?</a>
+</li>
+<li><a href="/tempest/where-mirandas-mother">Where is Miranda's mother?</a>
+</li>
+<li><a href="/tempest/why-did-shakespeare-include-sub-plot-antonio">Why did Shakespeare include the sub-plot of Antonio and Sebastian scheming against King Alonso?</a>
+</li>
+<li><a href="/tempest/does-prospero-undergo-any-character-development">Does Prospero undergo any character development?</a>
+</li>
+</ul></li>
+<li><a href="/tempest/bibliography-further-reading">The Tempest: Bibliography and Further Reading</a>
+</li>
+<li><a href="/tempest/pictures">The Tempest: Pictures</a>
+</li>
+<li><a href="/tempest/copyright">Copyright</a>
+</li>
+    </ul>
+</div>
+<script type="text/javascript">
+initMenu($("#multiMenu_links"));
+</script>
+<div style="position: absolute; top: 0px; left: 0px; background-color: white;"></div>    </div>
+    <div class="content-center">
+        
+<div class="guide-menu-wrapper guide-menu-subnav">
+    <h2>The Tempest: Introduction</h2>
+    <div class="guide-menu">
+            </div><!--/.guide-menu-->
+</div><!--/.guide-menu-wrapper-->
+
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:'c9eb5502-5ce1-4cad-8a7b-e7a07dad8104',tracking:'google',onhover:false});</script>
+<div class="article-tools clearfix">
+<ul>
+                                <li><a href="/tempest//print" class="print-link">Print</a></li>
+                                        <li><a href="/help/join" class="pdf">PDF</a></li>
+                                        <li><a href="javascript:popUp('/jax/index.php/works/citePage/cid=831',500,500);" class="cite-link">Cite</a></li>
+                <li><span class="st_sharethis_custom">Share</span></li>
+    </ul>
+</div>
+
+
+<div class="article" id="article-contents">
+                <p>Although some scholars have speculated that <a href="http://www.enotes.com/authors/william-shakespeare">Shakespeare</a> wrote portions of <i><i>The Tempest</i></i> at an earlier stage in his career, most literary historians assign the entire play a composition date of 1610 or 1611. And while Shakespeare may have had a hand in <i>The Two Noble Kinsman</i> (written a decade or so after <i><i>The Tempest</i></i> and assigned to dual authorship), <i><i>The Tempest</i></i> is customarily identified as the Bard's last stage piece. These marginal issues aside, <i><i>The Tempest</i></i> is the fourth, final, and the finest of Shakespeare's great and/or late romances. Along with <i>Pericles</i>, <i>Cymbeline</i>, and <i>The Winter's Tale</i>, <i><i>The Tempest</i></i> belongs to the genre of <a href="http://www.enotes.com/topics/elizabethan-drama">Elizabethan</a> romance plays. It combines elements of tragedy (Prospero's revenge) with those of romantic comedy (the young lovers Miranda and Ferdinand), and like one of Shakespeare's problem plays, <i>Measure for Measure</i>, it poses deeper questions that are not completely resolved at the end. The romance genre is distinguished by the inclusion (and synthesis) of these tragic, comic, and problematical ingredients and further marked by a happy ending (usually concluding with a masque or dance) in which all, or most, of the characters are brought into harmony.</p>
+<p>No reading of <i><i>The Tempest</i></i> can do it justice: Shakespeare's tale of Prospero's Island is inherently theatrical, unfolding in a series of spectacles that involve exotic, supra-human, and sometimes invisible characters that the audience can see but other characters cannot. The play was composed by Shakespeare as a multi-sensory theater experience, with sound, and especially music, used to complement the sights of the play, and all of it interwoven by the author with lyrical textual passages that overflow with exotic images, trifling sounds, and a palpable lushness.</p>
+<p>The richness of <i><i>The Tempest</i></i> as theater is matched by the extraordinary thematic complexity of its text. Recognizing that all of the themes and accompanying figurative strands of the play cannot be discussed here, the play's topical highlights can still be approached by first noting the salience of two themes that arise from the very theatricality of the play: the opposition between reality and illusion and the tandem subject of the theater itself. The play challenges our senses and is self-consciously a performance orchestrated by Shakespeare's effigy in the master illusionist Prospero. There are, in addition, numerous interpenetrating polarities in the play, most notably between nature and civilization or Art. These thematic strands come together at multiple points of intersection. Nevertheless, from one angle on the text, <i><i>The Tempest</i></i> asks a single question, one that Shakespeare had posed in many and divers of his other plays: What is a human being? (or, in Elizabethan terms: What is man?)</p>
+<h2>The Tempest Summary</h2><p>Prospero, the rightful Duke of Milan, has been living on a primitive island with his fifteen-year-old daughter, Miranda, for the past 12 years. His dukedom had been usurped by his own brother, Antonio, whom Prospero had entrusted to manage the affairs of government while he was concentrating on his study of the liberal arts. With the support of Alonso, the King of Naples, Antonio conspired against his brother to become the new Duke of Milan. Prospero and his three-year-old daughter were put on “a rotten carcass of a butt” without a sail. Gonzalo, a member of the king’s council, took pity on them, and stocked the leaky vessel with food, fresh water, clothing, and Prospero’s books. Providence has now brought his enemies to the shore of the island, and Prospero must act quickly.</p>
+<p>The action begins with a tempestuous storm at sea. Afraid for their lives, Alonso and Gonzalo urge the Boatswain to do all he can to save the ship, but he rudely orders the royal party to stay in their cabins and “trouble us not.” They are finally convinced to go below and pray for mercy.</p>
+<p>Ariel, an airy spirit, raised the tempest just as he was instructed by Prospero, his master, informing Prospero that all except the mariners plunged into the sea. Ariel reports that he has left the ship safely docked in the harbor with the mariners aboard. The rest of the passengers, with garments unblemished, have been dispersed around the island. Ariel then lures Ferdinand, Prince of Naples, onto the island with his songs, informing him of his father’s supposed death by drowning. The young prince is led past Prospero’s cave where he meets Miranda, and they fall in love. To keep Ferdinand from winning his prize (Miranda) too quickly and easily, Prospero uses his magic to force Ferdinand to yield to the indignity of stacking logs.</p>
+<p>Elsewhere on the island, Ariel, with the help of Prospero’s magic, puts Alonso and Gonzalo to sleep. While they sleep Antonio and Sebastian conspire to kill Alonso and Gonzalo and take over the throne. Just as they draw their swords, Ariel awakens Gonzalo and he, in turn, rouses the king. The conspirators claim that they heard wild animals and drew their swords. The king readily accepts their excuse.</p>... » <a href="/tempest/summary">Complete The Tempest Summary</a>        <div class="">
+<p id="source-link"><em>Source: </em>eNotes Publishing<em>, &copy;2012 eNotes.com, Inc.. All Rights Reserved.</em>  <a href="javascript:popUp('/jax/index.php/sources?sid=1076', 500, 500);">Full copyright</a>.</p>
+</em></p>
+</div>
+                    <div class="ask-question clearfix">
+    <p>Did this raise a question for you?</p>
+    <input type="button" class="btn-input" value="Ask a Question" onClick="this.value='Please wait...'; this.disabled=true; parent.location='/tempest/q-and-a/ask'" />
+</div><!--/.ask-question-->
+
+            
+</div><!--/.article-->
+
+<script type="text/javascript">
+    $(function() {
+    $("#article-contents span[title]").tooltip({bodyHandler:function(){
+		return $(this).attr('tooltipText');
+        }});
+    });
+</script>
+
+        <div style="text-align: center; margin-top: 20px;">
+<script type="text/javascript">
+GA_googleFillSlot("300x250_BTF_ROS");
+</script>
+</div>
+
+ 
+    </div>
+</div>
+<div id="content-right">
+             <div style="margin-bottom: 20px;">
+<script type="text/javascript">
+GA_googleFillSlot("eNotes_ROS_300_250");
+</script>
+</div>
+
+<!--Key questions-->
+<div class="module module-yellow">
+<div class="module-header clearfix">
+    <h2>The Tempest Questions</h2>
+    <a href="/tempest/q-and-a/">See all &raquo;</a>
+</div>
+<div class="module-content">
+        <div class="module-item">
+        <div class="excerpt">
+            <div class="excerpt-image"><span class="profilepicContainer thumb"><a href="/people/fwriedt" class="profilePic"><img src="http://static.enotes.com/images/user_icons/48_1_04.gif" /></a></span></div>
+            <div class="excerpt-text">
+                <p style="padding-right: 5px;"><a href="/tempest/q-and-a/who-prospero-s-servant-tempest-26257">Who is Prospero's servant in &quot;The Tempest&quot;?</a></p>
+                <p style="padding-top: 4px; padding-right: 5px;">asked by <a href="/people/fwriedt">fwriedt</a></p>
+            </div>
+        </div>
+    </div>
+        <div class="module-item">
+        <div class="excerpt">
+            <div class="excerpt-image"><span class="profilepicContainer thumb"><a href="/people/emilysable" class="profilePic"><img src="http://static.enotes.com/images/user_icons/48_1_09.gif" /></a></span></div>
+            <div class="excerpt-text">
+                <p style="padding-right: 5px;"><a href="/tempest/q-and-a/what-releationship-between-prospero-ariel-act-1-12177">In &quot;The Tempest,&quot; what is the relationship between Prospero and Ariel in Act 1 Scene 2 lines 189-260?</a></p>
+                <p style="padding-top: 4px; padding-right: 5px;">asked by <a href="/people/emilysable">emilysable</a></p>
+            </div>
+        </div>
+    </div>
+    </div>
+</div><!--/module-yellow-->
+
+<!--Documents-->
+<div class="module module-green">
+    <div class="module-header clearfix">
+        <h2>The Tempest Documents</h2>
+        <a href="/tempest/documents/">See all &raquo;</a>
+    </div>
+        <div class="module-content">
+           <ul>
+                        <li><a href="/documents/tempest-lesson-plan-78912">The Tempest Lesson Plan</a></li>
+                        <li><a href="/documents/tempest-teaching-unit-79589">The Tempest Teaching Unit</a></li>
+                        <li><a href="/documents/tempest-puzzle-pack-79779">The Tempest Puzzle Pack</a></li>
+                        <li><a href="/documents/syllabus-shakespeare-tempest-55915">Syllabus: Shakespeare, "The Tempest"</a></li>
+                        <li><a href="/documents/grammardog-guide-tempest-37923">Grammardog Guide to The Tempest</a></li>
+                    </ul>
+    </div>
+</div><!--/.module-blue-->
+
+<!--sidescraper ad-->
+<div style="margin-left: 65px; margin-bottom: 15px;">
+<script type="text/javascript">
+GA_googleFillSlot("Books_Literature_160x600");
+</script>
+</div>
+
+
+<!--Top Members-->
+    <div class="module module-white">
+        <div class="module-header clearfix">
+            <h2>Following The Tempest</h2>
+            <a href="/tempest/following">See all &raquo;</a>
+        </div>
+        <div class="module-content">
+                        <div class="module-item">
+                <div class="excerpt">
+                    <div class="excerpt-image">
+                        <span class="profilepicContainer thumb"><a href="/people/accessteacher" class="profilePic"><img src="http://static.enotes.com/images/profiles/64911_48.jpg" class="profilePic" /></a></span><span title="This user is an editor." class="premium-indicator thumb"><img src="http://static.enotes.com/images/core/editor-indicator_thumb.png" class="premium-indicator" /></span>                    </div>
+                    <div class="excerpt-text">
+                        <p><a href="/people/accessteacher">accessteacher</a></p>
+                        <p class="user-title">Editor Emeritus, Debater, Expert, Educator, Whitman, Poe, Dickens, The Bard</p>
+                        <p>350,978 points</p>                    </div>
+                </div>
+            </div>
+                        <div class="module-item">
+                <div class="excerpt">
+                    <div class="excerpt-image">
+                        <span class="profilepicContainer thumb"><a href="/people/gbeatty" class="profilePic"><img src="http://static.enotes.com/images/profiles/382_48.jpg" class="profilePic" /></a></span><span title="This user is an editor." class="premium-indicator thumb"><img src="http://static.enotes.com/images/core/editor-indicator_thumb.png" class="premium-indicator" /></span>                    </div>
+                    <div class="excerpt-text">
+                        <p><a href="/people/gbeatty">gbeatty</a></p>
+                        <p class="user-title">Editor Emeritus, Debater, Scribe, Dickens, The Bard</p>
+                        <p>58,682 points</p>                    </div>
+                </div>
+            </div>
+                        <div class="module-item">
+                <div class="excerpt">
+                    <div class="excerpt-image">
+                        <span class="profilepicContainer thumb"><a href="/people/pohnpei397" class="profilePic"><img src="http://static.enotes.com/images/profiles/39305_48.jpg" class="profilePic" /></a></span><span title="This user is an editor." class="premium-indicator thumb"><img src="http://static.enotes.com/images/core/editor-indicator_thumb.png" class="premium-indicator" /></span>                    </div>
+                    <div class="excerpt-text">
+                        <p><a href="/people/pohnpei397">pohnpei397</a></p>
+                        <p class="user-title">Distinguished Editor, Debater, Expert, Educator, Dickens, The Bard, Churchill</p>
+                        <p>564,047 points</p>                    </div>
+                </div>
+            </div>
+                        <div class="module-item">
+                <div class="excerpt">
+                    <div class="excerpt-image">
+                        <span class="profilepicContainer thumb"><a href="/people/cetaylorplfd" class="profilePic"><img src="http://static.enotes.com/images/profiles/69293_48.jpg" class="profilePic" /></a></span><span title="This user is an editor." class="premium-indicator thumb"><img src="http://static.enotes.com/images/core/editor-indicator_thumb.png" class="premium-indicator" /></span>                    </div>
+                    <div class="excerpt-text">
+                        <p><a href="/people/cetaylorplfd">cetaylorplfd</a></p>
+                        <p class="user-title">Editor, Debater, Expert, Educator, Scribe, Dickens, The Bard</p>
+                        <p>36,891 points</p>                    </div>
+                </div>
+            </div>
+                        <div class="module-item">
+                <div class="excerpt">
+                    <div class="excerpt-image">
+                        <span class="profilepicContainer thumb"><a href="/people/robertwilliam" class="profilePic"><img src="http://static.enotes.com/images/profiles/7855_48.gif" class="profilePic" /></a></span><span title="This user is an editor." class="premium-indicator thumb"><img src="http://static.enotes.com/images/core/editor-indicator_thumb.png" class="premium-indicator" /></span>                    </div>
+                    <div class="excerpt-text">
+                        <p><a href="/people/robertwilliam">robertwilliam</a></p>
+                        <p class="user-title">Editor, Debater, Expert, Dickens, The Bard</p>
+                        <p>33,227 points</p>                    </div>
+                </div>
+            </div>
+                    </div><!--/.module-content-->
+        </div><!--/.module-white-->
+
+<!--Related Topics-->
+<div class="module module-white">
+    <div class="module-header clearfix">
+        <p>Related Topics</p>
+        <a href="/topics">See all &raquo;</a>
+    </div>
+    <div class="module-content">
+                <div class="module-item-noline">
+            <p><a href="/authors/william-shakespeare">William Shakespeare</a></p>
+        </div>
+            </div>
+</div><!--/.module-white-->
+    </div>
+
+</div><!--/content-->
+<div id="footer">
+    <div id="footer-info" class="footer-block">
+        <p>eNotes.com is a resource used daily by thousands of students, teachers, professors and researchers. We invite you to become a part of our community. </p>
+        <p><a href="/help/join">Join eNotes</a></p>
+        <p><a href="/jax/index.php/users/register/type=editor">Become an eNotes Editor</a></p>
+        <p>&copy; 2012 eNotes.com, Inc. All Rights Reserved.</p>
+    </div>
+    <div id="footer-subjects" class="footer-block">
+        <h2>Subject Areas</h2>
+        <ul>
+            <li><a href="/lit">Literature</a></li>
+            <li><a href="/business">Business</a></li>
+            <li><a href="/health">Health</a></li>
+            <li><a href="/law">Law &amp; Politics</a></li>
+        </ul>
+        <ul>
+            <li><a href="/history">History</a></li>
+            <li><a href="/arts">Arts</a></li>
+            <li><a href="/math">Math</a></li>
+            <li><a href="/science">Science</a></li>
+            <li><a href="/soc">Social Sciences</a></li>
+        </ul>
+    </div>
+    <div id="footer-useful" class="footer-block">
+        <h2>Useful Areas</h2>
+        <ul>
+            <li><a href="/help">Help</a></li>
+            <li><a href="/help/about">About Us</a></li>
+            <li><a href="/jax/index.php/util/contactus">Contact Us</a></li>
+            <li><a href="/help/jobs">Jobs</a></li>
+        </ul>
+        <ul>
+            <li><a href="/help/privacy">Privacy</a></li>
+            <li><a href="javascript:popUp('/help/tos',600,600);">Terms of Use</a></li>
+            <li><a href="/help/advertising">Advertise on eNotes</a></li>
+                        <li>
+            <!--Glam Media-->
+            <script type="text/javascript" language="JavaScript">
+            glam_affiliate_id = '1642947546';
+            glam_logo_type = 'GFamily';
+            glam_logo_size = '160x24';
+            color_or_grayscale_flag ='_gs';
+            glam_logo_color = 'wht';
+            glam_gs_logo_color = 'blk';
+            glam_logo_country = 'US';
+            </script>
+            <script src="http://www8.glam.com/js/widgets/glam_logo.js"></script>
+            </li>
+                    </ul>
+    </div>
+    <div class="clear"></div>
+</div><!--/footer-->
+</div><!--/wrapper-->
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-05Li3VIqFNZYI"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-05Li3VIqFNZYI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push([{
+qacct:"p-05Li3VIqFNZYI"  //enotes
+}]);
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="https://secure.quantserve.com/pixel?a.1=p-05Li3VIqFNZYI&a.2=p-berY5RRQGbf0c" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<div id="banner_top_hidden" class="banner" style="position: absolute; top: -1000px; left: -1000px;">
+  <script type="text/javascript">
+GA_googleFillSlot("Books_Literature_728x90");
+</script>
+
+</div>
+<!--zendesk feedback tab-->
+<script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.4/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//asset0.zendesk.com/external/zenbox/v2.4/zenbox.css);
+  #zenbox_tab {
+   width: 28px;
+   border-top-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   -moz-box-shadow:    0px 0px 2px 0px #333;
+   -webkit-box-shadow: 0px 0px 2px 0px #333;
+   box-shadow: 0px 0px 2px 0px #333;
+}
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "20039621",
+      url:         "https://enotes.zendesk.com",
+      tabID:       "support",
+      tabImageURL: "http://static.enotes.com/images/core/tab_support_right_enotes.png",
+      tabColor:    "black",
+      tabPosition: "Right"
+    });
+  };
+</script>
+<!--end zendesk feedback tab-->
+</body>
+</html>
